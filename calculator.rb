@@ -1,2 +1,2 @@
-first_number = "uck"
+first_number = 4
 
